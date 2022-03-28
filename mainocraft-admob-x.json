@@ -1,6 +1,6 @@
 [ {
-  "is_active" : false,
-  "top_banner" : false,
-  "id_banner" : "ca-app-pub-3940256099942544/6300978111x",
+  "is_active" : true,
+  "top_banner" : true,
+  "id_banner" : "ca-app-pub-9526552911677688/7337735249",
   "id_inters" : "ca-app-pub-"
 } ]
