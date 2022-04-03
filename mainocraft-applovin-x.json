@@ -2,7 +2,7 @@
   "is_active" : true,
   "top_banner" : true,
   "time_interval" : 3600,
-  "time_after_load" : 30,
+  "time_after_load" : 10,
   "id_banner" : "279e25b0cbb01e67",
   "id_inters" : "fc99d8e7a9d7178e"
 } ]
