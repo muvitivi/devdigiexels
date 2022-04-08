@@ -17,11 +17,11 @@
   
   "note" : "UNITY ADS",
   "id_una" : 4586685,
-  "init_una" : 1800,
+  "init_una" : 2700,
   "name_una" : "Interstitial_Android",
   "pack_una" : "",
   "pe1_una" : 2700,
-  "pe2_una" : 2700,
+  "pe2_una" : 2710,
   "status_una" : false,
   "testMode_una" : false
 } ]
